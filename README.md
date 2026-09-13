@@ -1,1 +1,0 @@
-# NOVA-Tool---E2E-Testing-Manual-Automation-and-API.
